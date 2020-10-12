@@ -1,0 +1,69 @@
+
+.top{
+    background-color: rgb(180, 226, 208);
+    
+}
+h1{
+    margin: 0px;
+}
+body{
+    margin: 0;
+    text-align: center;
+    color:green;
+}
+.skills{
+    background-color: white;
+}
+#bottomcloud{
+    position: absolute;
+}
+
+
+#topcloud{
+    position: relative;left: 200px;
+}
+.skills-row{
+    background-color: whitee;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.contact-me{
+    background-color:white;
+
+}
+.bottom-container{
+    background-color:rgb(180, 226, 208);
+    margin-top: 40PX;
+    height: 60px;
+}
+#change{
+    width:40%;
+    float: left;
+    margin-right: 30px;
+}
+#change2{
+    width:40%;
+    float: right;
+    margin-right: 30px;
+
+}
+.btn{
+    background:white;
+  background-image: -webkit-linear-gradient(top, rgb(180, 226, 208),rgb(180, 226, 208));
+  background-image: -moz-linear-gradient(top, rgb(180, 226, 208), rgb(180, 226, 208));
+  background-image: -ms-linear-gradient(top,rgb(180, 226, 208), rgb(180, 226, 208));
+  background-image: -o-linear-gradient(top, rgb(180, 226, 208), rgb(180, 226, 208));
+  background-image: linear-gradient(to bottom, rgb(180, 226, 208), rgb(180, 226, 208));
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #15833a;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
